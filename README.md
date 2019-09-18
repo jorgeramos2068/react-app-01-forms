@@ -1,3 +1,7 @@
+# React App - Consume API
+
+React application that controls a simple form to schedule appointments.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
